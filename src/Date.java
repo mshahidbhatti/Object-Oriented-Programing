@@ -18,11 +18,24 @@ public class Date {
 
 
     //constructor
+    //Constructor name and class name are identical
+    //Constructor have no return type
+    //constructor can be invoked using "new" keyword followed by class name and pare of bracketc
+    // return statement cannot be used in the body of the constructor
+    // constructor can be parameterized and also without arguments
     public Date(int d, int m, int y){
-        day = d;
-        month = m;
-        year = y;
+        //day = d;
+        setDay(d);
+        setMonth(m);
+        setYear(y);
 
+
+    }
+
+
+    // this is a method having name identical to class name
+    public void Date(){
+        return ;
     }
 
     // setters and getters
@@ -30,6 +43,7 @@ public class Date {
         if(d>0 && d <=31)
             day = d;
     }
+
 
     public int getDay(){
         return day;
