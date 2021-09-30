@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Employee and Date classes">
-      <change afterPath="$PROJECT_DIR$/src/week3/Mathematics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/MethodsADeeperLook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/SubjectDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MethodsADeeperLook">
+  <component name="RunManager" selected="Application.SubjectDemo">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Object-Oriented-Programing.Week2" />
@@ -68,21 +67,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="SubjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.SubjectDemo" />
+      <module name="Object-Oriented-Programing.Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubjectDemo" />
         <item itemvalue="Application.MethodsADeeperLook" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Account" />
@@ -98,7 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1632370673982</updated>
       <workItem from="1632370675940" duration="7045000" />
-      <workItem from="1632885913302" duration="4698000" />
+      <workItem from="1632885913302" duration="5477000" />
+      <workItem from="1632907983943" duration="599000" />
+      <workItem from="1632961516259" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -149,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632378152936</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Employee and Date classes">
+      <created>1632890742295</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632890742295</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Employee and Date classes">
+      <created>1632890832580</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632890832580</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
