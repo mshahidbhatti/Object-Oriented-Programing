@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Employee and Date classes" />
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Week 3 Code Added">
+      <change afterPath="$PROJECT_DIR$/src/Week4/About" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +39,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.SubjectDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Object-Oriented-Programing.Week2" />
@@ -46,6 +52,19 @@
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="Object-Oriented-Programing.Week2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Main" />
+      <module name="Object-Oriented-Programing.Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SubjectDemo" />
         <item itemvalue="Application.MethodsADeeperLook" />
         <item itemvalue="Application.Demo" />
@@ -108,6 +128,8 @@
       <workItem from="1632885913302" duration="5477000" />
       <workItem from="1632907983943" duration="599000" />
       <workItem from="1632961516259" duration="2969000" />
+      <workItem from="1632992416774" duration="610000" />
+      <workItem from="1633489870995" duration="4483000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -172,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632890832580</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Week 3 Code Added">
+      <created>1632984228878</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632984228878</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +235,7 @@
     <MESSAGE value="main method added" />
     <MESSAGE value="Demo class added" />
     <MESSAGE value="Employee and Date classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee and Date classes" />
+    <MESSAGE value="Week 3 Code Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Code Added" />
   </component>
 </project>
