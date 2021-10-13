@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Week 3 Code Added">
-      <change afterPath="$PROJECT_DIR$/src/Week5/About" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week5/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week5/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Week 4 Arrays Discussed in Depth" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +142,7 @@
       <workItem from="1633582930913" duration="1317000" />
       <workItem from="1633845733781" duration="1514000" />
       <workItem from="1634095989388" duration="1042000" />
-      <workItem from="1634097107640" duration="2680000" />
+      <workItem from="1634097107640" duration="3355000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -226,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633494460368</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Week 4 Arrays Discussed in Depth">
+      <created>1634099885267</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634099885267</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +263,7 @@
     <MESSAGE value="Demo class added" />
     <MESSAGE value="Employee and Date classes" />
     <MESSAGE value="Week 3 Code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Code Added" />
+    <MESSAGE value="Week 4 Arrays Discussed in Depth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4 Arrays Discussed in Depth" />
   </component>
 </project>
