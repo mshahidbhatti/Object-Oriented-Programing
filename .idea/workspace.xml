@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Week 4 Arrays Discussed in Depth">
+      <change afterPath="$PROJECT_DIR$/src/Week5/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Deck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week5/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +109,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo (1)" />
@@ -135,7 +149,8 @@
       <workItem from="1634095989388" duration="1042000" />
       <workItem from="1634097107640" duration="3355000" />
       <workItem from="1634121566203" duration="158000" />
-      <workItem from="1634123925545" duration="197000" />
+      <workItem from="1634123925545" duration="654000" />
+      <workItem from="1634187835099" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -228,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634121600963</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Week 4 Arrays Discussed in Depth">
+      <created>1634124139510</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634124139514</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

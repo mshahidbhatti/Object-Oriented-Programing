@@ -6,7 +6,18 @@ public class Demo {
 
     public static void main(String[] args) {
 
-        Rectangle tempList[]=new Rectangle[10];
+
+        Deck deck= new Deck();
+        deck.shuffleCards(6000);
+      //  deck.displaDeck();
+
+        deck.peekCard().display();
+
+        Card[] player1, player2, player3;
+
+
+
+   /*     Rectangle tempList[]=new Rectangle[10];
         for(int i=0;i< tempList.length;i++)
             tempList[i]=new Rectangle(2,1);
 
@@ -55,7 +66,7 @@ public class Demo {
 
         printVariableLengthArgument(list[0]);
         printVariableLengthArgument(list[0],list3[2]);
-        printVariableLengthArgument(list[0],list3[2], list4[5], list[2]);
+        printVariableLengthArgument(list[0],list3[2], list4[5], list[2]);*/
 
     }
 
