@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Two Dimensional Array in Week6 package">
-      <change afterPath="$PROJECT_DIR$/src/Collection/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/PersonDemo.java" afterDir="false" />
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition">
+      <change afterPath="$PROJECT_DIR$/src/Week7/About" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/DemoEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/FourWheelVehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Institute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/SedanVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,25 +51,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/week6" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.PersonDemo">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week5.Demo" />
-      <module name="Object-Oriented-Programing.Week2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoEmployee">
     <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.Demo" />
       <module name="Object-Oriented-Programing.Week2" />
@@ -85,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.DemoEmployee" />
+      <module name="Object-Oriented-Programing.Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,24 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoEmployee" />
         <item itemvalue="Application.PersonDemo" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ReadWiteOperations" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +171,8 @@
       <workItem from="1634701128785" duration="4072000" />
       <workItem from="1634724857353" duration="1582000" />
       <workItem from="1634789239718" duration="16000" />
-      <workItem from="1635252616620" duration="2382000" />
+      <workItem from="1635252616620" duration="3025000" />
+      <workItem from="1635305230235" duration="3179000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -278,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634705049650</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Association Composition">
+      <created>1635255068277</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1635255068277</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +331,7 @@
     <MESSAGE value="Week 4 Arrays Discussed in Depth" />
     <MESSAGE value="Example of Cards" />
     <MESSAGE value="Two Dimensional Array in Week6 package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two Dimensional Array in Week6 package" />
+    <MESSAGE value="Association Composition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Association Composition" />
   </component>
 </project>
