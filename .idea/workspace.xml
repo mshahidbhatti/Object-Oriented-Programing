@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition">
-      <change afterPath="$PROJECT_DIR$/src/Week7/About" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DemoEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/FourWheelVehicles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Institute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/SedanVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Vehicle.java" afterDir="false" />
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance">
+      <change afterPath="$PROJECT_DIR$/src/Test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Shape2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/Shape3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/ShapeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +52,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/week6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.DemoEmployee">
+  <component name="RunManager" selected="Application.ShapeDemo">
     <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.Demo" />
       <module name="Object-Oriented-Programing.Week2" />
@@ -110,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWiteOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileHandling.ReadWiteOperations" />
+    <configuration name="ShapeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.ShapeDemo" />
       <module name="Object-Oriented-Programing.Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileHandling.*" />
+          <option name="PATTERN" value="Week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeDemo" />
         <item itemvalue="Application.DemoEmployee" />
         <item itemvalue="Application.PersonDemo" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ReadWiteOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,9 @@
       <workItem from="1634724857353" duration="1582000" />
       <workItem from="1634789239718" duration="16000" />
       <workItem from="1635252616620" duration="3025000" />
-      <workItem from="1635305230235" duration="3179000" />
+      <workItem from="1635305230235" duration="3548000" />
+      <workItem from="1635392471516" duration="1182000" />
+      <workItem from="1635398156246" duration="4007000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -293,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635255068277</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Association Composition, Inhertitance">
+      <created>1635310057391</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635310057391</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +342,7 @@
     <MESSAGE value="Example of Cards" />
     <MESSAGE value="Two Dimensional Array in Week6 package" />
     <MESSAGE value="Association Composition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Association Composition" />
+    <MESSAGE value="Association Composition, Inhertitance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Association Composition, Inhertitance" />
   </component>
 </project>
