@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance">
-      <change afterPath="$PROJECT_DIR$/src/Test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Shape2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Shape3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/ShapeDemo.java" afterDir="false" />
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance,">
+      <change afterPath="$PROJECT_DIR$/src/Week8/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/VideoPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +51,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.ShapeDemo">
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.Demo" />
+  <component name="RunManager" selected="Application.Demo (1)">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Demo" />
       <module name="Object-Oriented-Programing.Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Week8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.Demo" />
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Demo" />
       <module name="Object-Oriented-Programing.Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +117,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.ShapeDemo" />
         <item itemvalue="Application.DemoEmployee" />
         <item itemvalue="Application.PersonDemo" />
         <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +167,8 @@
       <workItem from="1635305230235" duration="3548000" />
       <workItem from="1635392471516" duration="1182000" />
       <workItem from="1635398156246" duration="4007000" />
+      <workItem from="1635406571032" duration="337000" />
+      <workItem from="1635912313428" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -303,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635310057391</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Association Composition, Inhertitance,">
+      <created>1635406611570</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635406611570</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +343,7 @@
     <MESSAGE value="Two Dimensional Array in Week6 package" />
     <MESSAGE value="Association Composition" />
     <MESSAGE value="Association Composition, Inhertitance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Association Composition, Inhertitance" />
+    <MESSAGE value="Association Composition, Inhertitance," />
+    <option name="LAST_COMMIT_MESSAGE" value="Association Composition, Inhertitance," />
   </component>
 </project>
