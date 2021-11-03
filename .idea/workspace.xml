@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance,">
-      <change afterPath="$PROJECT_DIR$/src/Week8/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/VideoPlayer.java" afterDir="false" />
+    <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance, &#10;Abstract methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,13 +113,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,7 +166,7 @@
       <workItem from="1635392471516" duration="1182000" />
       <workItem from="1635398156246" duration="4007000" />
       <workItem from="1635406571032" duration="337000" />
-      <workItem from="1635912313428" duration="2294000" />
+      <workItem from="1635912313428" duration="3070000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -303,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635406611570</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Association Composition, Inhertitance, &#10;Abstract methods">
+      <created>1635914895177</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635914895177</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +349,7 @@
     <MESSAGE value="Association Composition" />
     <MESSAGE value="Association Composition, Inhertitance" />
     <MESSAGE value="Association Composition, Inhertitance," />
-    <option name="LAST_COMMIT_MESSAGE" value="Association Composition, Inhertitance," />
+    <MESSAGE value="Association Composition, Inhertitance, &#10;Abstract methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Association Composition, Inhertitance, &#10;Abstract methods" />
   </component>
 </project>
