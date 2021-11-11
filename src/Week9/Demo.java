@@ -1,5 +1,8 @@
 package Week9;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class Demo {
     public static void main(String[] args) {
 
@@ -44,6 +47,15 @@ public class Demo {
         ElectronicInterface e = new Audio2("",true);
 
         MediaPlayer mp= (MediaPlayer) e;
+
+
+        Collection c= new ArrayList();
+
+        c.add(null);
+
+
+
+
 
 
 
