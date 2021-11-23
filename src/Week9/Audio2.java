@@ -10,6 +10,16 @@ public class Audio2 extends MediaPlayer implements ElectronicInterface{
     void play() {
 
     }
+
+    @Override
+    public void turnOn() {
+
+    }
+
+    @Override
+    public void turnOf() {
+
+    }
 }
 
 
