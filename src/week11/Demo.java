@@ -74,10 +74,13 @@ public class Demo {
         // throws
         // throw
 
-        try{}
+      /*  try{}
         catch (customException e){
 
-        }
+        }*/
+
+
+
         System.out.println("Thank you for using our ERP. Good Bye! ");
     }
 
