@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b21edb8-96cc-4893-a77d-1aa4fed1f6f8" name="Default Changelist" comment="Association Composition, Inhertitance, &#10;Abstract methods&#10;&#10;Interfaces&#10;&#10;Collection API&#10;&#10;Uploaded till mid&#10;&#10;&#10;Exception Handling included in week11">
-      <change afterPath="$PROJECT_DIR$/src/week11/FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week11/FileHandlingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/AddMovieFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/GlobalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/LoginFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week11/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week11/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week11/FileHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week11/FileHandlingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,32 +49,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tmp\oop\fa21\Object-Oriented-Programing\data" />
       <recent name="C:\tmp\oop\fa21\Object-Oriented-Programing\src\Test" />
       <recent name="C:\tmp\oop\fa21\Object-Oriented-Programing\src\Week9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileHandlingTest">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Demo" />
-      <module name="Object-Oriented-Programing.Week2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Demo" />
       <module name="Object-Oriented-Programing.Week2" />
@@ -90,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.Demo" />
+      <module name="Object-Oriented-Programing.Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,26 +128,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.FileHandlingTest" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +186,13 @@
       <workItem from="1636662865078" duration="3002000" />
       <workItem from="1637664362472" duration="2212000" />
       <workItem from="1637726784030" duration="2594000" />
-      <workItem from="1637818772025" duration="2518000" />
+      <workItem from="1637818772025" duration="2748000" />
+      <workItem from="1638210361012" duration="40000" />
+      <workItem from="1638421542873" duration="5426000" />
+      <workItem from="1639022586081" duration="868000" />
+      <workItem from="1639024332729" duration="683000" />
+      <workItem from="1639025165016" duration="4000" />
+      <workItem from="1639026423215" duration="3933000" />
     </task>
     <task id="LOCAL-00001" summary="main method added">
       <created>1632371061275</created>
@@ -360,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637729384974</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Association Composition, Inhertitance, &#10;Abstract methods&#10;&#10;Interfaces&#10;&#10;Collection API&#10;&#10;Uploaded till mid&#10;&#10;&#10;Exception Handling included in week11">
+      <created>1637821336441</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1637821336441</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
